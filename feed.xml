@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' xml:lang='fr_FR' version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<title>TrashTalk</title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/</link>
+<atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
+<description>nba podcast</description>
+<generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
+<lastBuildDate>Wed, 05 Aug 2020 09:12:25 +0000</lastBuildDate>
+<language>fr</language>
+<copyright>All rights reserved</copyright>
+<itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
+<image>
+<url>https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg</url>
+<title>TrashTalk</title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/</link>
+</image>
+<itunes:summary>nba podcast</itunes:summary>
+<itunes:subtitle>nba podcast</itunes:subtitle>
+<itunes:author>tib</itunes:author>
+<itunes:owner>
+<itunes:name>tib</itunes:name>
+<itunes:email>tcaenen@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit></itunes:explicit>
+<itunes:category text="Arts"></itunes:category>
+
+<item>
+<title><![CDATA[Transfert XXL : analyse du trade entre Rockets, Wolves, Hawks et Nuggets]]></title>
+<itunes:subtitle><![CDATA[Transfert XXL : analyse du trade entre Rockets, Wolves, Hawks et Nuggets]]></itunes:subtitle>
+<itunes:summary><![CDATA[Transfert XXL : analyse du trade entre Rockets, Wolves, Hawks et Nuggets]]></itunes:summary>
+<description><![CDATA[Transfert XXL : analyse du trade entre Rockets, Wolves, Hawks et Nuggets]]></description>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/2020-02-06-Z1xSTx577c.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/2020-02-06-Z1xSTx577c.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/?name=2020-02-06-Z1xSTx577c.mp3</guid>
+<itunes:duration>47:09</itunes:duration>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<itunes:keywords><![CDATA[]]></itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 06 Feb 2020 01:27:00 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Trade Deadline 2020 : vivez les transferts en direct !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mQ9HKe7fdVc.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mQ9HKe7fdVc.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mQ9HKe7fdVc.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Fri, 07 Feb 2020 16:46:56 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Trade deadline 2020 : le gros debrief]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/8XWDIbjym5s.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/8XWDIbjym5s.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/8XWDIbjym5s.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 10 Feb 2020 09:12:44 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 60 - 59 - 58 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/pDmfVJqFORs.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/pDmfVJqFORs.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/pDmfVJqFORs.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 10 Feb 2020 13:48:59 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Conférence Ouest : je n'aurais jamais cru pouvoir dire que...]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/hkbior34PlE.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/hkbior34PlE.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/hkbior34PlE.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 12 Feb 2020 10:36:31 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Conférence Est : je n'aurais jamais cru pouvoir dire que...]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/kJj-TfEoCkY.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/kJj-TfEoCkY.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/kJj-TfEoCkY.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 12 Feb 2020 10:36:31 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 57 - 56 - 55 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/-cWTtl3UR6U.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/-cWTtl3UR6U.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/-cWTtl3UR6U.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 17 Feb 2020 13:53:37 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Free Flow : All-Star Game et internationalisation de la NBA]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/tm3MeJMHcmM.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/tm3MeJMHcmM.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/tm3MeJMHcmM.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 18 Feb 2020 07:41:27 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 54 - 53 - 52 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/idgjkgAR64s.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/idgjkgAR64s.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/idgjkgAR64s.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 24 Feb 2020 15:57:21 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[10 choses à observer sur la fin de saison NBA 2019-20 : Conférence Ouest !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/tLxdriMN2Gg.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/tLxdriMN2Gg.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/tLxdriMN2Gg.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 26 Feb 2020 10:22:16 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[10 choses à observer sur la fin de saison NBA 2019-20 : Conférence Est !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ZiogRXMzmLM.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ZiogRXMzmLM.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ZiogRXMzmLM.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 26 Feb 2020 10:22:16 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 51 - 50 - 49 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/_O5VwyeCjek.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/_O5VwyeCjek.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/_O5VwyeCjek.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 02 Mar 2020 17:49:32 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Mais qui est le meilleur joueur de moins de 23 ans en NBA ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zPg2idTLKCg.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zPg2idTLKCg.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zPg2idTLKCg.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 04 Mar 2020 17:53:09 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Giannis versus Harden : qui est le Most Valuable Parleur ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QU_PhSrbz2I.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QU_PhSrbz2I.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QU_PhSrbz2I.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 04 Mar 2020 17:53:09 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 48 - 47 - 46 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/75MQiYCuAww.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/75MQiYCuAww.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/75MQiYCuAww.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 09 Mar 2020 14:16:03 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Les Nets et Kenny Atkinson c’est fini : c’est quoi ce bordel ?!]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xrATBSIITbE.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xrATBSIITbE.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xrATBSIITbE.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 11 Mar 2020 09:17:18 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[LeBron James et les Lakers énervés : message de patron !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/qUefKoFtj3I.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/qUefKoFtj3I.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/qUefKoFtj3I.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 11 Mar 2020 09:17:18 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[LA SAISON NBA 2019-20 EST SUSPENDUE...!]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/90xjJ9l2xLU.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/90xjJ9l2xLU.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/90xjJ9l2xLU.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 12 Mar 2020 16:53:53 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[La NBA à l'arrêt : on fait le point sur la situation]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mLFyuCB58lE.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mLFyuCB58lE.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mLFyuCB58lE.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 15 Mar 2020 14:08:44 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Cavs : le 5 majeur all-time de Cleveland]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/iV5PINGFotA.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/iV5PINGFotA.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/iV5PINGFotA.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 15 Mar 2020 14:08:44 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Bulls : le 5 majeur all-time de Chicago]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/4XFGApuzrd0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/4XFGApuzrd0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/4XFGApuzrd0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 15 Mar 2020 14:08:44 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 45 - 44 - 43 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/fl-UinKuhv0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/fl-UinKuhv0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/fl-UinKuhv0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 16 Mar 2020 14:59:45 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Golden State Warriors]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/AedzEzUm57w.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/AedzEzUm57w.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/AedzEzUm57w.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 17 Mar 2020 17:22:29 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Cleveland Cavaliers]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/vviE1PpYcE0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/vviE1PpYcE0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/vviE1PpYcE0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 18 Mar 2020 16:26:37 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Atlanta Hawks]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/_SbEon3hIQo.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/_SbEon3hIQo.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/_SbEon3hIQo.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Fri, 20 Mar 2020 23:02:47 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Minnesota Timberwolves]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/R11ToB-HJW8.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/R11ToB-HJW8.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/R11ToB-HJW8.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Fri, 20 Mar 2020 23:02:47 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Detroit Pistons]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/fZk3MWQ9pmA.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/fZk3MWQ9pmA.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/fZk3MWQ9pmA.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 22 Mar 2020 17:29:37 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les New York Knicks]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6z71uXK8-Qc.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6z71uXK8-Qc.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6z71uXK8-Qc.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 22 Mar 2020 17:29:37 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Chicago Bulls]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ZxvsAmLXG28.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ZxvsAmLXG28.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ZxvsAmLXG28.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 23 Mar 2020 14:03:31 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Charlotte Hornets]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/MqPJ_am5z5A.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/MqPJ_am5z5A.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/MqPJ_am5z5A.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 24 Mar 2020 14:07:17 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Washington Wizards]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/OJcPFnpx3f0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/OJcPFnpx3f0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/OJcPFnpx3f0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 25 Mar 2020 15:58:23 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Sacramento Kings]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/wuEaZ-huBBs.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/wuEaZ-huBBs.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/wuEaZ-huBBs.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 29 Mar 2020 13:37:05 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les San Antonio Spurs]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/yv8qOwifxGk.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/yv8qOwifxGk.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/yv8qOwifxGk.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 29 Mar 2020 13:37:05 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les New Orleans Pelicans]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/i3mOkCMrdhw.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/i3mOkCMrdhw.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/i3mOkCMrdhw.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 29 Mar 2020 13:37:05 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Phoenix Suns]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/gg16cmG4PFw.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/gg16cmG4PFw.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/gg16cmG4PFw.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 29 Mar 2020 13:37:05 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Portland Trail Blazers]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Yi3muf7AJK8.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Yi3muf7AJK8.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Yi3muf7AJK8.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 30 Mar 2020 21:35:01 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : le Orlando Magic]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/T8Jtg26zWHg.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/T8Jtg26zWHg.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/T8Jtg26zWHg.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 31 Mar 2020 16:56:58 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Brooklyn Nets]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6uWm3GZTqQc.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6uWm3GZTqQc.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6uWm3GZTqQc.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 01 Apr 2020 17:42:39 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Memphis Grizzlies]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/K7N0iNYDeC4.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/K7N0iNYDeC4.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/K7N0iNYDeC4.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 02 Apr 2020 13:47:29 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Dallas Mavericks]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/yeOgEkCxaTU.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/yeOgEkCxaTU.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/yeOgEkCxaTU.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sat, 04 Apr 2020 11:17:28 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Indiana Pacers]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/vvSUk2i-Iu4.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/vvSUk2i-Iu4.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/vvSUk2i-Iu4.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 06 Apr 2020 16:00:10 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Houston Rockets]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/JBYRa2LHBSQ.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/JBYRa2LHBSQ.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/JBYRa2LHBSQ.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 06 Apr 2020 16:00:10 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Philadelphia Sixers]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/qtthWBrxwPs.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/qtthWBrxwPs.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/qtthWBrxwPs.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 06 Apr 2020 16:00:10 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : le Miami Heat]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/rUKt6Ky21u4.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/rUKt6Ky21u4.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/rUKt6Ky21u4.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 09 Apr 2020 09:52:29 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : le Oklahoma City Thunder]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/bg6kmw09RmU.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/bg6kmw09RmU.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/bg6kmw09RmU.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 09 Apr 2020 09:52:29 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : le Utah Jazz]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/cy6EQJsSva0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/cy6EQJsSva0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/cy6EQJsSva0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 12 Apr 2020 10:37:56 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Boston Celtics]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/95LVuTXpXt0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/95LVuTXpXt0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/95LVuTXpXt0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 12 Apr 2020 10:37:56 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Denver Nuggets]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QkZ2-asCdAE.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QkZ2-asCdAE.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QkZ2-asCdAE.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 12 Apr 2020 10:37:56 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Los Angeles Clippers]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6wRgGcMp82w.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6wRgGcMp82w.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6wRgGcMp82w.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 13 Apr 2020 10:36:36 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Milwaukee Bucks]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/-pxFXOgkLm4.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/-pxFXOgkLm4.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/-pxFXOgkLm4.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sat, 18 Apr 2020 11:49:01 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Los Angeles Lakers]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Z4aCeEA7waY.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Z4aCeEA7waY.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Z4aCeEA7waY.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sat, 18 Apr 2020 11:49:01 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Review 2019-20 : les Toronto Raptors]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/9pnWKqgrNmc.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/9pnWKqgrNmc.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/9pnWKqgrNmc.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sat, 18 Apr 2020 11:49:01 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Free Flow Science-fiction : on fait les Playoffs NBA 2020 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/3mGMs7dwSLQ.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/3mGMs7dwSLQ.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/3mGMs7dwSLQ.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sat, 18 Apr 2020 11:49:01 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Le Grand Jeu des Hexperts - épisode 1 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/51C_7wkaNPw.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/51C_7wkaNPw.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/51C_7wkaNPw.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 21 Apr 2020 11:36:50 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Street Vol. 2 : les premiers pas dans la légende !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/IMmZPN_goPo.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/IMmZPN_goPo.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/IMmZPN_goPo.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 21 Apr 2020 11:36:50 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 39 - 38 - 37 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/9ysyPBSojGM.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/9ysyPBSojGM.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/9ysyPBSojGM.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 28 Jul 2020 12:30:01 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 36 - 35 - 34 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ez7JYL0Q5sY.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ez7JYL0Q5sY.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ez7JYL0Q5sY.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 28 Jul 2020 12:30:01 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Reprise de la NBA : la bulle en 4 grandes questions !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xblhkBk4uRQ.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xblhkBk4uRQ.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xblhkBk4uRQ.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 03 Aug 2020 17:04:48 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Que se passe-t-il chez les 8 équipes oubliées de la reprise NBA ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/PCui3JjkcaY.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/PCui3JjkcaY.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/PCui3JjkcaY.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 03 Aug 2020 17:04:48 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 33 - 32 - 31 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/65zdQtYo0V8.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/65zdQtYo0V8.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/65zdQtYo0V8.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 03 Aug 2020 17:04:48 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA : Bucks - Celtics, commenté en direct !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/L1vz9bwZjJ4.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/L1vz9bwZjJ4.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/L1vz9bwZjJ4.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 03 Aug 2020 17:04:48 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA : Heat - Raptors, commenté en direct !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Z58ms892_3k.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Z58ms892_3k.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Z58ms892_3k.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 05 Aug 2020 09:12:25 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
