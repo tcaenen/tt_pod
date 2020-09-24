@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 17 Sep 2020 11:40:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2020 17:35:21 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -894,6 +894,42 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 17 Sep 2020 11:40:30 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Celtics vs Heat : égalisation Boston ou Miami en puissance ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/WY2tGK_0WJc.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/WY2tGK_0WJc.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/WY2tGK_0WJc.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 24 Sep 2020 17:35:21 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Playoffs NBA 2020 : Lakers - Nuggets, la preview]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/1y4qjj7EZ1w.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/1y4qjj7EZ1w.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/1y4qjj7EZ1w.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 24 Sep 2020 17:35:21 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 12 - 11]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/EsiT5_UQsxw.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/EsiT5_UQsxw.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/EsiT5_UQsxw.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 24 Sep 2020 17:35:21 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Lakers vs Nuggets : on fait le point sur la série !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/38cXysDFu4Y.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/38cXysDFu4Y.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/38cXysDFu4Y.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 24 Sep 2020 17:35:21 +0000</pubDate>
 </item>
 
 </channel>
