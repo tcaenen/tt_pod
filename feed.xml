@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 24 Sep 2020 17:35:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2020 16:47:13 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -930,6 +930,33 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 24 Sep 2020 17:35:21 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Game 6, Heat - Celtics : comeback de Boston ou Miami termine ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/3Bcvv7A8vmk.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/3Bcvv7A8vmk.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/3Bcvv7A8vmk.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 29 Sep 2020 16:47:13 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Les Lakers sont de retour en Finales NBA : le patron a répondu présent !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/0JJfW1sU00Y.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/0JJfW1sU00Y.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/0JJfW1sU00Y.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 29 Sep 2020 16:47:13 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 10 - 9]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/pFifbjKVHlY.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/pFifbjKVHlY.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/pFifbjKVHlY.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 29 Sep 2020 16:47:13 +0000</pubDate>
 </item>
 
 </channel>
