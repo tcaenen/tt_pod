@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 01 Oct 2020 16:14:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2020 07:45:59 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -966,6 +966,51 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 01 Oct 2020 16:14:31 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 8 - 7]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/BBhNDyzHUD0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/BBhNDyzHUD0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/BBhNDyzHUD0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 08 Oct 2020 07:45:59 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Finales NBA 2020 : Jimmy Butler, en mode Super Saiyan !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/CvhGOyoCdvo.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/CvhGOyoCdvo.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/CvhGOyoCdvo.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 08 Oct 2020 07:45:59 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Finales NBA 2020 : sweep en vue de la part des Lakers...?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/dxh55HFZ610.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/dxh55HFZ610.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/dxh55HFZ610.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 08 Oct 2020 07:45:59 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Finales NBA 2020 : LeBron James MVP, qui dit non ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/pfL-HZ49PFQ.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/pfL-HZ49PFQ.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/pfL-HZ49PFQ.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 08 Oct 2020 07:45:59 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[LE PLUS GRAND LIVRE DE BASKETBALL DE TOUS LES TEMPS (SELON TRASHTALK)]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/DU1xPJC3Ktc.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/DU1xPJC3Ktc.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/DU1xPJC3Ktc.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 08 Oct 2020 07:45:59 +0000</pubDate>
 </item>
 
 </channel>
