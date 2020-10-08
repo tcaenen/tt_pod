@@ -45,6 +45,13 @@ subprocess.call(['youtube-dl',
 for filename in os.listdir(temp_dir):
     if filename.endswith(".mp3"):
         cnt_f = cnt_f + 1
+        subprocess.call(['lame',
+                         '--mp3input',
+                         '-b', '64',
+                         temp_dir + "/" + filename,
+                         temp_dir + "/B_" + filename]
+                         , shell=False)
+        os.rename(temp_dir + "/B_" + filename, temp_dir + "/" + filename)
         titre = sh.cut(sh.grep(sh.ffprobe("-v", "error", "-show_format", temp_dir + "/" + filename),"title"),"-d","=","-f2")
         titre = str(titre)
         titre = titre.replace('\n','')
