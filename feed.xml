@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 08 Oct 2020 07:45:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2020 13:57:06 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -1011,6 +1011,60 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 08 Oct 2020 07:45:59 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[LAKERS - HEAT, GAME 6 COMMENTÉ EN DIRECT !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/U6qB8T1Axpg.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/U6qB8T1Axpg.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/U6qB8T1Axpg.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 14 Oct 2020 22:00:32 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[LAKERS - HEAT, COMMENTÉ EN DIRECT !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ORTsPF4OjJ0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ORTsPF4OjJ0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/ORTsPF4OjJ0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 14 Oct 2020 22:00:32 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Finales NBA 2020 : duel de monstres et game 5 de folie !!]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/yOuVjRFo9ZU.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/yOuVjRFo9ZU.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/yOuVjRFo9ZU.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 14 Oct 2020 22:00:32 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Lakers champions NBA : un titre lourd de sens]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Pw5stEFf12U.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Pw5stEFf12U.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Pw5stEFf12U.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 14 Oct 2020 22:00:32 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA TOP 100 ALL-TIME : PLACES 6 - 5]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/UWEFmY9pyDo.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/UWEFmY9pyDo.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/UWEFmY9pyDo.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 14 Oct 2020 22:00:32 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Playoffs 2020 : la bulle est fermée, on débriefe !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/n2JLP6n7iws.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/n2JLP6n7iws.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/n2JLP6n7iws.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 15 Oct 2020 13:57:06 +0000</pubDate>
 </item>
 
 </channel>
