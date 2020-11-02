@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Mon, 26 Oct 2020 16:24:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2020 07:36:31 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -1092,6 +1092,15 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Mon, 26 Oct 2020 16:24:49 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Actualité NBA : les Brooklyn Suns, allô Houston, bravo Morey !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mggfAoIfqCA.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mggfAoIfqCA.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mggfAoIfqCA.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 02 Nov 2020 07:36:31 +0000</pubDate>
 </item>
 
 </channel>
