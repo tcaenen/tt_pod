@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Mon, 02 Nov 2020 07:36:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2020 11:59:27 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -1101,6 +1101,51 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Mon, 02 Nov 2020 07:36:31 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Daily Draft Recap : Killian Hayes, direction Detroit ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/HBPo72MhjpM.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/HBPo72MhjpM.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/HBPo72MhjpM.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 08 Nov 2020 11:59:27 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Daily Draft Recap : LaMelo Ball, la grosse chute ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Bj0D4GOqZjc.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Bj0D4GOqZjc.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Bj0D4GOqZjc.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 08 Nov 2020 11:59:27 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Free Flow : la NBA de retour le 22 décembre, faut qu'on en parle !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/-r4KlpNEPrE.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/-r4KlpNEPrE.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/-r4KlpNEPrE.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 08 Nov 2020 11:59:27 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Daily Draft Recap : gros transfert à venir chez les Wizards ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/x7FkIsGh_9o.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/x7FkIsGh_9o.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/x7FkIsGh_9o.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 08 Nov 2020 11:59:27 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Draft 2020 : et si on faisait le tour des différentes Mock Draft ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zaq0AwUKbwM.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zaq0AwUKbwM.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zaq0AwUKbwM.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 08 Nov 2020 11:59:27 +0000</pubDate>
 </item>
 
 </channel>
