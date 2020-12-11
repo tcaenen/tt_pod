@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 10 Dec 2020 08:53:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Dec 2020 13:05:03 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -1308,6 +1308,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 10 Dec 2020 08:53:29 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Preview 2020-21 : les Portland Trail Blazers]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/_k1YDnzvBo0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/_k1YDnzvBo0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/_k1YDnzvBo0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Fri, 11 Dec 2020 13:05:03 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Preview 2020-21 : les Phoenix Suns]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/wOw4SQe-81Q.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/wOw4SQe-81Q.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/wOw4SQe-81Q.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Fri, 11 Dec 2020 13:05:03 +0000</pubDate>
 </item>
 
 </channel>
