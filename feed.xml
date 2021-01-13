@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Wed, 06 Jan 2021 12:55:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 Jan 2021 17:43:06 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -1416,6 +1416,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Wed, 06 Jan 2021 12:55:31 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Toronto Raptors : mais que se passe-t-il chez les Dinos ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/L3Btg4GUlRo.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/L3Btg4GUlRo.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/L3Btg4GUlRo.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 13 Jan 2021 17:43:06 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Saison NBA 2020-21 : va-t-elle continuer, doit-elle continuer ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/JrTggfzm6Sk.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/JrTggfzm6Sk.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/JrTggfzm6Sk.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 13 Jan 2021 17:43:06 +0000</pubDate>
 </item>
 
 </channel>
