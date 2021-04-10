@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="fr_FR" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>TrashTalk</title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/</link>
+<atom:link href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml" rel="self" type="application/rss+xml" />
+<description>nba podcast</description>
+<generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
+<lastBuildDate>Thu, 06 Feb 2020 08:07:20 +0000</lastBuildDate>
+<language>fr</language>
+<copyright>All rights reserved</copyright>
+<itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
+<image>
+<url>https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg</url>
+<title>TrashTalk</title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/</link>
+</image>
+<itunes:summary>nba podcast</itunes:summary>
+<itunes:subtitle>nba podcast</itunes:subtitle>
+<itunes:author>tib</itunes:author>
+<itunes:owner>
+<itunes:name>tib</itunes:name>
+<itunes:email>tcaenen@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit></itunes:explicit>
+<itunes:category text="Arts"></itunes:category>
+
+<item>
+<title><![CDATA[Transfert XXL : analyse du trade entre Rockets, Wolves, Hawks et Nuggets]]></title>
+<itunes:subtitle><![CDATA[Transfert XXL : analyse du trade entre Rockets, Wolves, Hawks et Nuggets]]></itunes:subtitle>
+<itunes:summary><![CDATA[Transfert XXL : analyse du trade entre Rockets, Wolves, Hawks et Nuggets]]></itunes:summary>
+<description><![CDATA[Transfert XXL : analyse du trade entre Rockets, Wolves, Hawks et Nuggets]]></description>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/2020-02-06-Z1xSTx577c.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/2020-02-06-Z1xSTx577c.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/?name=2020-02-06-Z1xSTx577c.mp3</guid>
+<itunes:duration>47:09</itunes:duration>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<itunes:keywords><![CDATA[]]></itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<pubDate>Thu, 06 Feb 2020 01:27:00 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
