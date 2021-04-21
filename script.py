@@ -120,3 +120,17 @@ if cnt_f > 0:
     os.remove("feed.xml")
     os.rename("header_feed.xml", "feed.xml")
     os.remove(temp_dir + "/" + "items.xml")
+
+    subprocess.call(['git',
+                     'add', '*']
+                     , shell=False)
+
+    subprocess.call(['git',
+                     'commit',
+                     '-m',
+                     '"update"']
+                     , shell=False)
+
+    subprocess.call(['git',
+                     'push']
+                     , shell=False)
