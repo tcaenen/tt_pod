@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Wed, 28 Apr 2021 09:36:49 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 May 2021 11:52:41 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -1938,6 +1938,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Wed, 28 Apr 2021 09:36:49 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Les Enquêtes de TrashTalk : et si la France avait battu l'Espagne en 2015 ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/3EyYcgX4KGs.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/3EyYcgX4KGs.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/3EyYcgX4KGs.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 04 May 2021 11:52:41 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Tuto : le NBA Play-in Tournament 2021, expliqué en 90 secondes !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/wfq2o5YsB-c.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/wfq2o5YsB-c.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/wfq2o5YsB-c.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 04 May 2021 11:52:41 +0000</pubDate>
 </item>
 
 </channel>
