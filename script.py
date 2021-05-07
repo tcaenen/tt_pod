@@ -48,7 +48,7 @@ for filename in os.listdir(temp_dir):
         # reencode pour prendre moins de place
         subprocess.call(['lame',
                          '--mp3input',
-                         '-b', '64',
+                         '-b', '48',
                          temp_dir + "/" + filename,
                          temp_dir + "/B_" + filename]
                          , shell=False)
