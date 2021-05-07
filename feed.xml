@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 06 May 2021 09:18:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 May 2021 17:17:25 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -1965,6 +1965,15 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 06 May 2021 09:18:40 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Free Flow spécial Science-fiction : on fait les Playoffs NBA 2021 !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/vr9TyPyJeE8.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/vr9TyPyJeE8.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/vr9TyPyJeE8.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Fri, 07 May 2021 17:17:25 +0000</pubDate>
 </item>
 
 </channel>
