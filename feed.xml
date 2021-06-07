@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Fri, 04 Jun 2021 09:13:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Jun 2021 09:07:43 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2208,6 +2208,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Fri, 04 Jun 2021 09:13:08 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Playoffs 2021 : Sixers - Hawks, c'est l'heure de la grosse preview !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/fv2tkKLRF80.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/fv2tkKLRF80.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/fv2tkKLRF80.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 07 Jun 2021 09:07:43 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA PLAYOFFS 2021 : CLIPPERS - MAVS, LE GAME 7 COMMENTÉ EN DIRECT SUR TRASHTALK !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/KXgK9yknJW8.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/KXgK9yknJW8.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/KXgK9yknJW8.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 07 Jun 2021 09:07:43 +0000</pubDate>
 </item>
 
 </channel>
