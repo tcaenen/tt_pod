@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Tue, 15 Jun 2021 18:09:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Jun 2021 09:30:39 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2298,6 +2298,15 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Tue, 15 Jun 2021 18:09:12 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Réaction à chaud : le Game 5 de Kevin Durant face aux Bucks, en mode all time !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/qyT_8les4aQ.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/qyT_8les4aQ.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/qyT_8les4aQ.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 17 Jun 2021 09:30:39 +0000</pubDate>
 </item>
 
 </channel>
