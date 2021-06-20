@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 17 Jun 2021 09:30:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Jun 2021 16:46:44 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2307,6 +2307,33 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 17 Jun 2021 09:30:39 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Playoffs 2021 : Suns - Clippers, c'est l'heure de la grosse preview !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/9ZorowsNicI.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/9ZorowsNicI.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/9ZorowsNicI.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 20 Jun 2021 16:46:44 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Réactions à chaud : le Game 7 entre Nets et Bucks !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/w3UNz1zdeEc.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/w3UNz1zdeEc.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/w3UNz1zdeEc.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 20 Jun 2021 16:46:44 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Apéro actualités XXL : retour sur 24h de folies en NBA !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zOe88g6LvHw.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zOe88g6LvHw.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zOe88g6LvHw.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Sun, 20 Jun 2021 16:46:44 +0000</pubDate>
 </item>
 
 </channel>
