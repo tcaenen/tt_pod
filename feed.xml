@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Tue, 22 Jun 2021 08:50:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Jun 2021 17:30:47 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2343,6 +2343,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Tue, 22 Jun 2021 08:50:43 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[La NBA Draft Lottery, expliquée en moins de 4 minutes !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zxy8SvQ_CTY.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zxy8SvQ_CTY.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/zxy8SvQ_CTY.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 22 Jun 2021 17:30:47 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Playoffs 2021 : Bucks - Hawks, c'est l'heure de la grosse preview !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/43USr6dHJpo.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/43USr6dHJpo.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/43USr6dHJpo.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 22 Jun 2021 17:30:47 +0000</pubDate>
 </item>
 
 </channel>
