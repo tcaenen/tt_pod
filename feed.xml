@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Tue, 22 Jun 2021 17:30:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Jun 2021 08:25:35 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2361,6 +2361,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Tue, 22 Jun 2021 17:30:47 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Replay : la NBA Draft Lottery 2021, réactions à chaud !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/GUQLtvGulXo.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/GUQLtvGulXo.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/GUQLtvGulXo.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 24 Jun 2021 08:25:35 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[C’est quoi la recette pour devenir champion NBA ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/h7VESFpCp9I.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/h7VESFpCp9I.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/h7VESFpCp9I.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 24 Jun 2021 08:25:35 +0000</pubDate>
 </item>
 
 </channel>
