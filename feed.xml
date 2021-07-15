@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Sat, 10 Jul 2021 15:34:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jul 2021 10:06:35 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2451,6 +2451,33 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Sat, 10 Jul 2021 15:34:09 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Draft NBA 2021 : Jalen Green, le profil complet]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QwhGEv02VFs.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QwhGEv02VFs.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QwhGEv02VFs.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 15 Jul 2021 10:06:35 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Draft NBA 2021 : Evan Mobley, le profil complet !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/5zQsozumuYo.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/5zQsozumuYo.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/5zQsozumuYo.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 15 Jul 2021 10:06:35 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Draft NBA 2021 : Cade Cunningham, le profil complet !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6ub3giGnnpU.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6ub3giGnnpU.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/6ub3giGnnpU.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 15 Jul 2021 10:06:35 +0000</pubDate>
 </item>
 
 </channel>
