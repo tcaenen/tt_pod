@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 15 Jul 2021 10:06:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Jul 2021 11:43:08 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2478,6 +2478,42 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 15 Jul 2021 10:06:35 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Draft NBA 2021 : Scottie Barnes, le profil complet]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/60wsMdJrYLI.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/60wsMdJrYLI.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/60wsMdJrYLI.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 19 Jul 2021 11:43:08 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Draft NBA 2021 : Jonathan Kuminga, le profil complet]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xblIYoIgNc0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xblIYoIgNc0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xblIYoIgNc0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 19 Jul 2021 11:43:08 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Draft NBA 2021 : Jalen Suggs, le profil complet]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/DJDNn_q0W60.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/DJDNn_q0W60.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/DJDNn_q0W60.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 19 Jul 2021 11:43:08 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Finals 2021 : retour sur le Game 5 et une série incroyable !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/sTaFrp18iEo.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/sTaFrp18iEo.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/sTaFrp18iEo.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 19 Jul 2021 11:43:08 +0000</pubDate>
 </item>
 
 </channel>
