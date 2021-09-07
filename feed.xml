@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Sun, 08 Aug 2021 15:00:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Sep 2021 11:25:50 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2550,6 +2550,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Sun, 08 Aug 2021 15:00:52 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Rentrée NBA 2021 : c'est la grande reprise, spécial Conférence Ouest !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/V1lg_uxOoK8.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/V1lg_uxOoK8.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/V1lg_uxOoK8.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 07 Sep 2021 11:25:50 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Rentrée NBA 2021 : c'est la grande reprise, spécial Conférence Est !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QEfZco30ZY8.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QEfZco30ZY8.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/QEfZco30ZY8.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Tue, 07 Sep 2021 11:25:50 +0000</pubDate>
 </item>
 
 </channel>
