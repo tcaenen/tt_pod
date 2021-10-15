@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Wed, 13 Oct 2021 13:08:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 15 Oct 2021 08:55:24 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2793,6 +2793,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Wed, 13 Oct 2021 13:08:29 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Preview 2021-22 : le Utah Jazz]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/MSMRT04y8_s.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/MSMRT04y8_s.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/MSMRT04y8_s.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Fri, 15 Oct 2021 08:55:24 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Interview Tobias Harris x TrashTalk : "Je pense que Joel Embiid sera MVP cette saison !"]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/MpCghud53wQ.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/MpCghud53wQ.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/MpCghud53wQ.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Fri, 15 Oct 2021 08:55:24 +0000</pubDate>
 </item>
 
 </channel>
