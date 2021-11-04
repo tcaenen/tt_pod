@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Mon, 01 Nov 2021 15:29:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Nov 2021 14:12:53 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2883,6 +2883,33 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Mon, 01 Nov 2021 15:29:33 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Damian Lillard : tas de briques et mauvaise dynamique, Portland démarre mal]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/PURqGzFOjH0.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/PURqGzFOjH0.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/PURqGzFOjH0.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 04 Nov 2021 14:12:53 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Allez, café : la course au MVP au bout de 15 jours, plutôt Curry, Jimmy ou Ja Morant ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/V4asqYi59_8.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/V4asqYi59_8.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/V4asqYi59_8.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 04 Nov 2021 14:12:53 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Arbitrage NBA : moins de lancers, retour au vrai jeu ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Wl09rlRw_Xc.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Wl09rlRw_Xc.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Wl09rlRw_Xc.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Thu, 04 Nov 2021 14:12:53 +0000</pubDate>
 </item>
 
 </channel>
