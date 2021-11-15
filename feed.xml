@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 11 Nov 2021 14:33:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Nov 2021 12:11:24 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -2946,6 +2946,15 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 11 Nov 2021 14:33:56 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Top 10 All-Time (2021-22) : les joueurs beaux à voir jouer]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mEa08iNcHYI.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mEa08iNcHYI.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/mEa08iNcHYI.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 15 Nov 2021 12:11:24 +0000</pubDate>
 </item>
 
 </channel>
