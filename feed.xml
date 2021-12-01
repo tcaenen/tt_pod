@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Mon, 29 Nov 2021 15:17:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Dec 2021 09:28:12 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -3045,6 +3045,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Mon, 29 Nov 2021 15:17:50 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Kemba Walker hors de la rotation des Knicks : what's next ? (Allez, café)]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Nl1WpS3z3ps.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Nl1WpS3z3ps.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/Nl1WpS3z3ps.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 01 Dec 2021 09:28:12 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[Les Minnesota Timberwolves ne rigolent plus : jusqu'où ça peut aller ?]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/CpxlGb2EWBQ.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/CpxlGb2EWBQ.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/CpxlGb2EWBQ.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Wed, 01 Dec 2021 09:28:12 +0000</pubDate>
 </item>
 
 </channel>
