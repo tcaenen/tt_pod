@@ -6,7 +6,7 @@
 <atom:link href='https://raw.githubusercontent.com/tcaenen/tt_pod/master/feed.xml' rel='self' type='application/rss+xml' />
 <description>nba podcast</description>
 <generator>Podcast Generator 3.0 - http://www.podcastgenerator.net</generator>
-<lastBuildDate>Thu, 09 Dec 2021 14:15:48 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Dec 2021 13:55:06 +0000</lastBuildDate>
 <language>fr</language>
 <copyright>All rights reserved</copyright>
 <itunes:image href="https://raw.githubusercontent.com/tcaenen/tt_pod/master/images/itunes_image.jpg" />
@@ -3117,6 +3117,24 @@
 <author>tcaenen@gmail.com (tib)</author>
 <itunes:author>tib</itunes:author>
 <pubDate>Thu, 09 Dec 2021 14:15:48 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[NBA Top 10 All-Time (2021-22) : les moments vécus en direct]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/FjCdDQgpwSg.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/FjCdDQgpwSg.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/FjCdDQgpwSg.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 13 Dec 2021 13:55:06 +0000</pubDate>
+</item>
+<item>
+<title><![CDATA[L'Addition : les plus grands souvenirs de l'année 2021, et Scooby le chien !]]></title>
+<link>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xWlVnX7UAOw.mp3</link>
+<enclosure url="https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xWlVnX7UAOw.mp3" length="30066338" type="audio/mpeg"></enclosure>
+<guid>https://raw.githubusercontent.com/tcaenen/tt_pod/master/media/xWlVnX7UAOw.mp3</guid>
+<author>tcaenen@gmail.com (tib)</author>
+<itunes:author>tib</itunes:author>
+<pubDate>Mon, 13 Dec 2021 13:55:06 +0000</pubDate>
 </item>
 
 </channel>
